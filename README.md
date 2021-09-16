@@ -37,7 +37,11 @@
 ![image](https://user-images.githubusercontent.com/76133815/133697381-7ebd7596-db32-413c-81b1-ff6d3e3725ca.png)
 
 17. Добавить несколько коммитов произвольного содержимого
-18. Создать пулл реквест в данный репозиторий
+![image](https://user-images.githubusercontent.com/76133815/133699439-e19615d7-1b11-449a-8465-11bf784ecdc7.png)
+![image](https://user-images.githubusercontent.com/76133815/133699573-29db7fab-39bf-4d4d-999b-d26ed56cf671.png)
+
+19. Создать пулл реквест в данный репозиторий
+
 ![image](https://user-images.githubusercontent.com/76133815/133698673-5ab61339-e7fc-4c33-a164-fa9b8694645e.png)
 
 
