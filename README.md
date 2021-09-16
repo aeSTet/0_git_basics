@@ -11,8 +11,10 @@
 
 
 1. Зарегистрироваться на сайте github.com
+
 ![image](https://user-images.githubusercontent.com/76133815/133107665-0f180ce9-b5e5-468d-a9d2-549778aed18f.png)
 2. Установить на компьютере программу Git
+
 ![image](https://user-images.githubusercontent.com/76133815/133107735-f60a6c8e-0c08-49af-bc08-2ed35b8822e9.png)
 3. Форкнуть данный репозиторий в свой аккаунт
 ![image](https://user-images.githubusercontent.com/76133815/133107803-1c9174db-a082-4466-9798-37213ee270b8.png)
