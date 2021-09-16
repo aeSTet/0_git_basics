@@ -13,33 +13,47 @@
 1. Зарегистрироваться на сайте github.com
 
 ![image](https://user-images.githubusercontent.com/76133815/133107665-0f180ce9-b5e5-468d-a9d2-549778aed18f.png)
+
 2. Установить на компьютере программу Git
 
 ![image](https://user-images.githubusercontent.com/76133815/133107735-f60a6c8e-0c08-49af-bc08-2ed35b8822e9.png)
+
 3. Форкнуть данный репозиторий в свой аккаунт
+
 ![image](https://user-images.githubusercontent.com/76133815/133107803-1c9174db-a082-4466-9798-37213ee270b8.png)
+
 4. Склонировать созданный удаленный репозиторий в директорию ~/git/test
 5. На локальной машине пишем скрипт ~/git/test/backup.sh, с произвольным содержанием
+
 ![image](https://user-images.githubusercontent.com/76133815/133107908-6b9e5981-fbce-4df5-bc7f-232752ec4a9d.png)
+
 6. Фиксируем скрипт в репозитории (делаем коммит)
+
 ![image](https://user-images.githubusercontent.com/76133815/133109103-a1fd4a5d-3442-4600-b69a-e91663563c27.png)
+
 7. Обновляем удаленный репозиторий репозиторий (делаем пуш)
+
 ![image](https://user-images.githubusercontent.com/76133815/133696381-e90d32c7-d839-4e39-9950-fcd0107e4d3f.png)
 
 8. Через текстовый редактор добавить любую новую строку с комментарием
 9. Сделать коммит
 10. Вности синтаксическую ошибку в скрипт
+
 ![image](https://user-images.githubusercontent.com/76133815/133696811-3c76efa3-79e5-44f1-95b9-0fdda7983838.png)
 
 12. Сделать коммит ошибочного скрипта
 13. Откатываем до последней рабочей версии
+
 ![image](https://user-images.githubusercontent.com/76133815/133697200-d13a3058-7b0d-4266-9ef0-82e45b84c109.png)
 
 15. Просмотреть историю коммитов
+
 ![image](https://user-images.githubusercontent.com/76133815/133697381-7ebd7596-db32-413c-81b1-ff6d3e3725ca.png)
 
 17. Добавить несколько коммитов произвольного содержимого
+
 ![image](https://user-images.githubusercontent.com/76133815/133699439-e19615d7-1b11-449a-8465-11bf784ecdc7.png)
+
 ![image](https://user-images.githubusercontent.com/76133815/133699573-29db7fab-39bf-4d4d-999b-d26ed56cf671.png)
 
 19. Создать пулл реквест в данный репозиторий
